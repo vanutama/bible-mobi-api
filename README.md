@@ -201,27 +201,96 @@ data.verses
 
 ## Versi Alkitab yang Tersedia
 
-### Internasional
+Diambil dari [alkitab.mobi/tb/versions/](https://alkitab.mobi/tb/versions/):
+
+### Bahasa Indonesia & Melayu
 
 | Code | Nama |
 |---|---|
+| `tb` | Terjemahan Baru (1974) |
+| `ayt` | Alkitab Yang Terbuka |
+| `tl` | Terjemahan Lama (1954) |
+| `milt` | Modified Indonesian Literal Translation (2008) |
+| `sb2010` | Alkitab Shellabear Kontekstual (2010) |
+| `sb2000` | Alkitab PB Shellabear Kontekstual (2000) |
+| `sbdr` | Alkitab Shellabear (1912) |
+| `tsi` | Terjemahan Sederhana Indonesia Edisi 3 (2014) |
+| `bis` | Kabar Baik Bahasa Indonesia Sehari-hari (1985) |
+| `vmd` | Versi Mudah Dibaca (2005) |
+| `amd` | Alkitab Mudah Dibaca (2014) |
+| `fayh` | Firman Allah Yang Hidup (1989) |
+| `ende` | Alkitab Ende (1970) |
+| `kszi` | Kitab Suci Zabur dan Injil Bahasa Malaysia (2008) |
+| `kskk` | Kitab Suci Komunitas Kristiani (2002) |
+| `wbtcdr` | Alkitab PB WBTC Draft (2006) |
+| `okkh` | Open Kitab Kehidupan |
+| `tmv` | Today's Malay Version (1987) |
+| `bsd` | Bahasa Indonesia yang Disederhanakan (1988) |
+| `kl1879` | PB Klinkert (1879) |
+| `kl1863` | PB Klinkert (1863) |
+| `baba` | PB Melayu Baba (1913) |
+| `ambdr` | PB Ambon Draft (1877) |
+| `keasberry` | Kitab Alkudus Keasberry (1853) |
+| `keasberry1866` | Kitab Alkudus Keasberry (1866) |
+| `ldkdr` | PB Leydekker Draft (1733) |
+| `avb` | Alkitab Versi Borneo |
+| `iban` | Bahasa Iban (2011) |
+
+### Bahasa Suku (Nusantara)
+
+`jawa`, `jawa2006`, `jawa2`, `jawasur`, `sunda`, `sunda2`, `madura`, `bauzi`, `bali`, `ngaju`, `sasak`, `bugis`, `makasar`, `toraja`, `duri`, `gorontalo`, `gorontalo_2006`, `balantak`, `barantak`, `bambam`, `kaili_daa`, `mongondow`, `aralle`, `napu`, `sangir`, `taa`, `rote`, `galela`, `yali`, `tabaru`, `karo`, `simalungun`, `toba`, `dairi`, `minang`, `nias`, `mentawai`, `lampung`, `aceh`, `mamasa`, `berik`, `manggarai`, `sabu`, `kupang`, `abun`, `meyah`, `uma`, `yawa`
+
+### Bahasa Inggris
+
+| Code | Nama |
+|---|---|
+| `niv` | New International Version |
+| `esv` | English Standard Version |
+| `nkjv` | New King James Version |
 | `av` | Authorized Version (KJV) |
 | `net` | New English Translation |
-| `nkjv` | New King James Version |
+| `nasb` | New American Standard Bible |
 | `amp` | Amplified Bible |
-| `esv` | English Standard Version |
-| `niv` | New International Version |
+| `nlt` | New Living Translation |
+| `gnb` | Good News Bible |
+| `hcsb` | Holman Christian Standard Bible |
+| `leb` | Lexham English Bible |
+| `nrsv` | New Revised Standard Version |
+| `reb` | Revised English Version |
+| `erv` | Easy-to-Read Version |
+| `evd` | English Version for the Deaf |
 | `bbe` | Bible in Basic English |
+| `msg` | The Message |
+| `phillips` | Phillips NT in Modern English |
+| `deib` | Deibler NT |
+| `gullah` | Gullah NT Version |
+| `cev` | Contemporary English Version |
+| `cevuk` | Contemporary English Version UK |
+| `gwv` | God's Word to the Nation |
 
-### Indonesia
+### Bahasa Mandarin
 
 | Code | Nama |
 |---|---|
-| `tb` | Terjemahan Baru |
+| `cuv` | Chinese Union Version (Traditional) |
+| `cuvs` | Chinese Union Version (Simplified) |
 
-### Bahasa Daerah
+### Teks Asli & Interlinear
 
-`jawa`, `sunda`, `toba`, `makasar`, `bali`, `lampung`, `simalungun`, `nias`, `aceh`, `mentawai`, `mamasa`, `berik`, `manggarai`, `sabu`, `kupang`, `abun`, `meyah`, `uma`, `yawa`, `gorontalo`, `barantak`, `bambam`, `mongondow`, `aralle`, `napu`, `sangir`, `taa`, `rote`, `galela`, `yali`, `tabaru`, `karo`
+| Code | Nama |
+|---|---|
+| `hebrew` | Hebrew Bible |
+| `greek` | Greek WH Bible |
+| `greek_str` | Greek WH Strong Bible |
+| `greeksr` | Greek SR Bible |
+| `greeksr_str` | Greek SR Strong Bible |
+| `aytst` | AYT Interlinear |
+| `tbst` | TB Interlinear |
+| `tlst` | TL Interlinear |
+| `avbst` | AVB Interlinear |
+| `kjv` | KJV Interlinear |
+| `nasbst` | NASB Interlinear |
+| `netst` | NET Interlinear |
 
 ## Development
 
