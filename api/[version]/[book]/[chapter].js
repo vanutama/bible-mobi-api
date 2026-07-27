@@ -1,4 +1,4 @@
-const { fetchChapter, validateParams, filterVerses } = require('../../../lib/scraper');
+const { getChapter, validateParams, filterVerses } = require('../../../lib/scraper');
 
 /**
  * Vercel Serverless Function
@@ -8,6 +8,10 @@ const { fetchChapter, validateParams, filterVerses } = require('../../../lib/scr
  *   ?verse=16        → single verse
  *   ?start=1&end=4   → verse range
  *   (none)           → full chapter
+ *
+ * Data priority:
+ *   1. Static JSON file (data/{version}/{book}/{chapter}.json)
+ *   2. Live scrape from alkitab.mobi (fallback)
  *
  * Source: Alkitab Mobile SABDA — https://alkitab.mobi/
  */
@@ -34,7 +38,7 @@ module.exports = async function handler(req, res) {
   }
 
   try {
-    const data = await fetchChapter(version.toLowerCase(), book, chapter);
+    const data = await getChapter(version.toLowerCase(), book, chapter);
 
     // Filter verses based on query params
     const filtered = filterVerses(data.verses, {
@@ -44,7 +48,10 @@ module.exports = async function handler(req, res) {
     });
 
     const response = {
-      ...data,
+      book: data.book,
+      chapter: data.chapter,
+      version: data.version,
+      source: data.source,
       verses: filtered,
     };
 
@@ -55,7 +62,7 @@ module.exports = async function handler(req, res) {
 
     return res.status(200).json(response);
   } catch (err) {
-    console.error('Scraper error:', err.message);
+    console.error('Error:', err.message);
 
     // If alkitab.mobi returns 404
     if (err.response && err.response.status === 404) {

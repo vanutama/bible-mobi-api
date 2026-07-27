@@ -1,0 +1,235 @@
+{
+  "book": "Yoh",
+  "chapter": 3,
+  "version": "tb",
+  "verses": [
+    {
+      "verse": 0,
+      "content": "Percakapan dengan Nikodemus",
+      "type": "title",
+      "order": 0
+    },
+    {
+      "verse": 1,
+      "content": "Adalah seorang Farisi yang bernama Nikodemus, seorang pemimpin agama Yahudi.",
+      "type": "content",
+      "order": 1
+    },
+    {
+      "verse": 2,
+      "content": "Ia datang pada waktu malam kepada Yesus dan berkata: \"Rabi, kami tahu, bahwa Engkau datang sebagai guru yang diutus Allah; sebab tidak ada seorangpun yang dapat mengadakan tanda-tanda yang Engkau adakan itu, jika Allah tidak menyertainya.\"",
+      "type": "content",
+      "order": 2
+    },
+    {
+      "verse": 3,
+      "content": "Yesus menjawab, kata-Nya: \"Aku berkata kepadamu, sesungguhnya jika seorang tidak dilahirkan kembali, ia tidak dapat melihat Kerajaan Allah.\"",
+      "type": "content",
+      "order": 3
+    },
+    {
+      "verse": 4,
+      "content": "Kata Nikodemus kepada-Nya: \"Bagaimanakah mungkin seorang dilahirkan, kalau ia sudah tua? Dapatkah ia masuk kembali ke dalam rahim ibunya dan dilahirkan lagi?\"",
+      "type": "content",
+      "order": 4
+    },
+    {
+      "verse": 5,
+      "content": "Jawab Yesus: \"Aku berkata kepadamu, sesungguhnya jika seorang tidak dilahirkan dari air dan Roh, ia tidak dapat masuk ke dalam Kerajaan Allah.",
+      "type": "content",
+      "order": 5
+    },
+    {
+      "verse": 6,
+      "content": "Apa yang dilahirkan dari daging, adalah daging, dan apa yang dilahirkan dari Roh, adalah roh.",
+      "type": "content",
+      "order": 6
+    },
+    {
+      "verse": 7,
+      "content": "Janganlah engkau heran, karena Aku berkata kepadamu: Kamu harus dilahirkan kembali.",
+      "type": "content",
+      "order": 7
+    },
+    {
+      "verse": 8,
+      "content": "Angin bertiup ke mana ia mau, dan engkau mendengar bunyinya, tetapi engkau tidak tahu dari mana ia datang atau ke mana ia pergi. Demikianlah halnya dengan tiap-tiap orang yang lahir dari Roh.\"",
+      "type": "content",
+      "order": 8
+    },
+    {
+      "verse": 9,
+      "content": "Nikodemus menjawab, katanya: \"Bagaimanakah mungkin hal itu terjadi?\"",
+      "type": "content",
+      "order": 9
+    },
+    {
+      "verse": 10,
+      "content": "Jawab Yesus: \"Engkau adalah pengajar Israel, dan engkau tidak mengerti hal-hal itu?",
+      "type": "content",
+      "order": 10
+    },
+    {
+      "verse": 11,
+      "content": "Aku berkata kepadamu, sesungguhnya kami berkata-kata tentang apa yang kami ketahui dan kami bersaksi tentang apa yang kami lihat, tetapi kamu tidak menerima kesaksian kami.",
+      "type": "content",
+      "order": 11
+    },
+    {
+      "verse": 12,
+      "content": "Kamu tidak percaya, waktu Aku berkata-kata dengan kamu tentang hal-hal duniawi, bagaimana kamu akan percaya, kalau Aku berkata-kata dengan kamu tentang hal-hal sorgawi?",
+      "type": "content",
+      "order": 12
+    },
+    {
+      "verse": 13,
+      "content": "Tidak ada seorangpun yang telah naik ke sorga, selain dari pada Dia yang telah turun dari sorga, yaitu Anak Manusia.",
+      "type": "content",
+      "order": 13
+    },
+    {
+      "verse": 14,
+      "content": "Dan sama seperti Musa meninggikan ular di padang gurun, demikian juga Anak Manusia harus ditinggikan,",
+      "type": "content",
+      "order": 14
+    },
+    {
+      "verse": 15,
+      "content": "supaya setiap orang yang percaya kepada-Nya beroleh hidup yang kekal.",
+      "type": "content",
+      "order": 15
+    },
+    {
+      "verse": 16,
+      "content": "Karena begitu besar kasih Allah akan dunia ini, sehingga Ia telah mengaruniakan Anak-Nya yang tunggal, supaya setiap orang yang percaya kepada-Nya tidak binasa, melainkan beroleh hidup yang kekal.",
+      "type": "content",
+      "order": 16
+    },
+    {
+      "verse": 17,
+      "content": "Sebab Allah mengutus Anak-Nya ke dalam dunia bukan untuk menghakimi dunia, melainkan untuk menyelamatkannya oleh Dia.",
+      "type": "content",
+      "order": 17
+    },
+    {
+      "verse": 18,
+      "content": "Barangsiapa percaya kepada-Nya, ia tidak akan dihukum; barangsiapa tidak percaya, ia telah berada di bawah hukuman, sebab ia tidak percaya dalam nama Anak Tunggal Allah.",
+      "type": "content",
+      "order": 18
+    },
+    {
+      "verse": 19,
+      "content": "Dan inilah hukuman itu: Terang telah datang ke dalam dunia, tetapi manusia lebih menyukai kegelapan dari pada terang, sebab perbuatan-perbuatan mereka jahat.",
+      "type": "content",
+      "order": 19
+    },
+    {
+      "verse": 20,
+      "content": "Sebab barangsiapa berbuat jahat, membenci terang dan tidak datang kepada terang itu, supaya perbuatan-perbuatannya yang jahat itu tidak nampak;",
+      "type": "content",
+      "order": 20
+    },
+    {
+      "verse": 21,
+      "content": "tetapi barangsiapa melakukan yang benar, ia datang kepada terang, supaya menjadi nyata, bahwa perbuatan-perbuatannya dilakukan dalam Allah.\"",
+      "type": "content",
+      "order": 21
+    },
+    {
+      "verse": 21,
+      "content": "Kesaksian Yohanes tentang Yesus",
+      "type": "title",
+      "order": 22
+    },
+    {
+      "verse": 22,
+      "content": "Sesudah itu Yesus pergi dengan murid-murid-Nya ke tanah Yudea dan Ia diam di sana bersama-sama mereka dan membaptis.",
+      "type": "content",
+      "order": 23
+    },
+    {
+      "verse": 23,
+      "content": "Akan tetapi Yohanespun membaptis juga di Ainon, dekat Salim, sebab di situ banyak air, dan orang-orang datang ke situ untuk dibaptis,",
+      "type": "content",
+      "order": 24
+    },
+    {
+      "verse": 24,
+      "content": "sebab pada waktu itu Yohanes belum dimasukkan ke dalam penjara.",
+      "type": "content",
+      "order": 25
+    },
+    {
+      "verse": 25,
+      "content": "Maka timbullah perselisihan di antara murid-murid Yohanes dengan seorang Yahudi tentang penyucian.",
+      "type": "content",
+      "order": 26
+    },
+    {
+      "verse": 26,
+      "content": "Lalu mereka datang kepada Yohanes dan berkata kepadanya: \"Rabi, orang yang bersama dengan engkau di seberang sungai Yordan dan yang tentang Dia engkau telah memberi kesaksian, Dia membaptis juga dan semua orang pergi kepada-Nya.\"",
+      "type": "content",
+      "order": 27
+    },
+    {
+      "verse": 27,
+      "content": "Jawab Yohanes: \"Tidak ada seorangpun yang dapat mengambil sesuatu bagi dirinya, kalau tidak dikaruniakan kepadanya dari sorga.",
+      "type": "content",
+      "order": 28
+    },
+    {
+      "verse": 28,
+      "content": "Kamu sendiri dapat memberi kesaksian, bahwa aku telah berkata: Aku bukan Mesias, tetapi aku diutus untuk mendahului-Nya.",
+      "type": "content",
+      "order": 29
+    },
+    {
+      "verse": 29,
+      "content": "Yang empunya mempelai perempuan, ialah mempelai laki-laki; tetapi sahabat mempelai laki-laki, yang berdiri dekat dia dan yang mendengarkannya, sangat bersukacita mendengar suara mempelai laki-laki itu. Itulah sukacitaku, dan sekarang sukacitaku itu penuh.",
+      "type": "content",
+      "order": 30
+    },
+    {
+      "verse": 30,
+      "content": "Ia harus makin besar, tetapi aku harus makin kecil.",
+      "type": "content",
+      "order": 31
+    },
+    {
+      "verse": 31,
+      "content": "Siapa yang datang dari atas adalah di atas semuanya; siapa yang berasal dari bumi, termasuk pada bumi dan berkata-kata dalam bahasa bumi. Siapa yang datang dari sorga adalah di atas semuanya.",
+      "type": "content",
+      "order": 32
+    },
+    {
+      "verse": 32,
+      "content": "Ia memberi kesaksian tentang apa yang dilihat-Nya dan yang didengar-Nya, tetapi tak seorangpun yang menerima kesaksian-Nya itu.",
+      "type": "content",
+      "order": 33
+    },
+    {
+      "verse": 33,
+      "content": "Siapa yang menerima kesaksian-Nya itu, ia mengaku, bahwa Allah adalah benar.",
+      "type": "content",
+      "order": 34
+    },
+    {
+      "verse": 34,
+      "content": "Sebab siapa yang diutus Allah, Dialah yang menyampaikan firman Allah, karena Allah mengaruniakan Roh-Nya dengan tidak terbatas.",
+      "type": "content",
+      "order": 35
+    },
+    {
+      "verse": 35,
+      "content": "Bapa mengasihi Anak dan telah menyerahkan segala sesuatu kepada-Nya.",
+      "type": "content",
+      "order": 36
+    },
+    {
+      "verse": 36,
+      "content": "Barangsiapa percaya kepada Anak, ia beroleh hidup yang kekal, tetapi barangsiapa tidak taat kepada Anak, ia tidak akan melihat hidup, melainkan murka Allah tetap ada di atasnya.\"",
+      "type": "content",
+      "order": 37
+    }
+  ]
+}
